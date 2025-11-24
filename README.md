@@ -11,7 +11,7 @@
 ## 📸 System Dashboard
 <div align="center">
   <img src="./assets/2025-11-24 04_26_25-.png" alt="RadarPro Main Dashboard" width="800">
-  <p><em>Figure 1: The Compliance Officer's Overview Dashboard (UI Mockup)</em></p>
+  <p><em>Figure 1: The Compliance Officer's Overview Dashboard</em></p>
 </div>
 
 ---
