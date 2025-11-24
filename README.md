@@ -8,6 +8,14 @@
 
 ---
 
+<div align="center">
+  <h3>📊 System Dashboard Overview</h3>
+  <p><i>A unified view for Internal Control Officers to monitor branch activities in real-time.</i></p>
+  <img src="./assets/2025-11-24 04_26_25-.png" alt="Main Dashboard Mockup" width="800">
+</div>
+
+---
+
 ## 🏛️ Project Overview
 
 **RadarPro** is a specialized "RegTech" (Regulatory Technology) solution designed to bridge the gap between Financial Institutions and Regulatory Bodies (specifically the **NFIU** - Nigerian Financial Intelligence Unit).
