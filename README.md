@@ -8,10 +8,10 @@
 
 ---
 
+## 📸 System Dashboard
 <div align="center">
-  <h3>📊 System Dashboard Overview</h3>
-  <p><i>A unified view for Internal Control Officers to monitor branch activities in real-time.</i></p>
-  <img src="./assets/2025-11-24 04_26_25-.png" alt="Main Dashboard Mockup" width="800">
+  <img src="./assets/2025-11-24 04_26_25-.png" alt="RadarPro Main Dashboard" width="800">
+  <p><em>Figure 1: The Compliance Officer's Overview Dashboard (UI Mockup)</em></p>
 </div>
 
 ---
